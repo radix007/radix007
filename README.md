@@ -12,8 +12,7 @@
 - 👯 I’m looking to collaborate on My CGPA Project.
 - 💬 Ask me about Linux !!!
 
-<br><br>
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=radix007&count_private=true&show_icons=true&&theme=tokyonight" />
 
 
