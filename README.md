@@ -65,7 +65,7 @@
 
 <br/>
 
-## Github Stats
+<!-- ## Github Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=radix007&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=radix007&&style=flat-square" align="center" />
-</div>
+</div> -->
 
 
 <br />
